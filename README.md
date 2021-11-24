@@ -1,4 +1,4 @@
-# zsh-themes
+<h2>ZSH Themes<img align="right" alt="Profile Hits" src="https://visitor-badge.laobi.icu/badge?page_id=elli0t43.zsh-themes"></h2>
 My very own ZSH themes, that I mostly use
 
 ### Installation 
