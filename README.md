@@ -8,3 +8,5 @@ For [Oh-My-Zsh](http://ohmyz.sh/) users
 3. `nvim ~/.zshrc` or simply open this file in your favorite text editor,
 4. Set `ZSH_THEME="current_theme"` to `ZSH_THEME="luck"`
 
+### Screenshots
+![img](https://github.com/elli0t43/zsh-themes/blob/main/screenshots/1.png)
