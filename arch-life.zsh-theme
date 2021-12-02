@@ -4,9 +4,8 @@ error_return() {
 }
 
 # Prompt  
-# PROMPT='$(error_return)at %{$FG[087]%}%~%{$reset_color%} $(git_prompt_info)$(git_prompt_status)%{$FG[196]%}  %{$reset_color%}' 
 PROMPT='$(error_return)at %{$FG[087]%}%~%{$reset_color%} $(git_prompt_info)$(git_prompt_status)%{$FG[196]%}  %{$reset_color%}' 
-RPROMPT='%(?.%{$FG[093]%}%B %T'  
+# RPROMPT='%(?.%{$FG[093]%}%B %T'  
 
 # Git Prompt 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$FG[075]%}($FG[078]%}"
